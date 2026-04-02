@@ -61,9 +61,6 @@
         <mxCell id="cObXO-qJtom-hVPCvrFg-19" value="Local computer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="460" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cObXO-qJtom-hVPCvrFg-20" value="Branching schematic diagram in my paper notebook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
